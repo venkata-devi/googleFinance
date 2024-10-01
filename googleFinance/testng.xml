@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Google Finance Test Suite">
+    <test name="Stock Symbols Test">
+        <classes>
+            <class name="GoogleFinanceTest"/>
+        </classes>
+    </test>
+</suite>
